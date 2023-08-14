@@ -24,7 +24,7 @@ function App() {
     <MySecondComponent valueA = {2} valueB={3} valueC = {"Flogert"}/>
     
     <MySecondComponent valueA = {5} valueB={7}  /> */}
-     
+     {/* tst */}
     </>
   )
 }
